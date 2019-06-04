@@ -6,11 +6,6 @@
          <varinfo type="tag" data="MyTag"/>
          <varinfo type="desc" data="MyDescription2"/>
          <varinfo type="usergroup" data="MyGroup"/>
-      <type name="NewStructure2" kind="STRUCT" desc="">
-         <var name="NewVar2" type="BOOL" dim="2" init="TRUE">
-         <varinfo type="tag" data="MyTag"/>
-         <varinfo type="desc" data="MyDescription2"/>
-         <varinfo type="usergroup" data="MyGroup"/>
          </var>
       </type>
    </types>

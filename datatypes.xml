@@ -3,7 +3,7 @@
    <types>
       <type name="NewStructure" kind="STRUCT" desc="">
          <var name="NewVar" type="BOOL">
-         <varinfo type="desc" data="MyDescription"/>
+         <varinfo type="desc" data="MyDescription2"/>
          </var>
       </type>
    </types>

@@ -2,7 +2,7 @@
 <K5project version="1.1">
    <types>
       <type name="NewStructure" kind="STRUCT" desc="">
-         <var name="NewVar" type="BOOL"/>
+         <var name="NewVar" type="BOOL" desc="MyDescription"/>
       </type>
    </types>
 </K5project>
